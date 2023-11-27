@@ -22,4 +22,17 @@ body {
     background-color: white;
 }
 
+.album-card > img {
+    width: 100%;
+    height: auto;
+    align-self: center;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.album-card > h3 {
+    font-weight: 700;
+    font-size: 18px;
+}
+
 
