@@ -1,4 +1,4 @@
-import album_art from "../images/lord_willin.jpeg"
+import album_art from "../images/mbdtf_king_cover.jpeg"
 import phone_icon from "../images/phone-icon.png"
 import mail_icon from "../images/mail-icon.png"
 
