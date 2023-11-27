@@ -4,7 +4,7 @@ import Card from "./components/Card.jsx"
 const App = () => {
     return (
         <div>
-            <h3>Above It All</h3>
+            <h1>Above It All</h1>
             <Card />
         </div>
     )

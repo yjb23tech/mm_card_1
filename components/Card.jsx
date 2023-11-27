@@ -7,11 +7,11 @@ const Card = () => {
         <div className="album-card">
             <img src={album_art} />
             <h3>Lord Willing</h3>
-            <div>
+            <div className="info-group">
                 <img src={phone_icon} />
                 <p>(971) 050 149 4823</p>
             </div>
-            <div>
+            <div className="info-group">
                 <img src={mail_icon} />
                 <p>clipse@interscoperecords.com</p>
             </div>
