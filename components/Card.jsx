@@ -6,7 +6,7 @@ const Card = () => {
     return (
         <div className="album-card">
             <img src={album_art} />
-            <h3>Lord Willing</h3>
+            <h3>My Beautiful Dark Twisted Fantasy</h3>
             <div className="info-group">
                 <img src={phone_icon} />
                 <p>(971) 050 149 4823</p>
