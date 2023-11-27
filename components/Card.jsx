@@ -4,7 +4,7 @@ import mail_icon from "../images/mail-icon.png"
 
 const Card = () => {
     return (
-        <div>
+        <div className="album-card">
             <img src={album_art} />
             <h3>Lord Willing</h3>
             <div>
